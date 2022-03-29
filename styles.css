@@ -1,0 +1,15 @@
+ul {
+    font-size: 50px;
+    color: orange;
+}
+
+h1 {
+    font-size: 100px;
+    color: magenta;
+    background-color: teal;
+}
+
+.pie {
+    height: auto;
+    width: 300px;
+}
